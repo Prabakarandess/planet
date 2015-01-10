@@ -1,2 +1,3 @@
 Mars is a planet.
 Apparently it is red in color.
+it is a small planet when compared to earth.
